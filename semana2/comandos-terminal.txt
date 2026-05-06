@@ -1,0 +1,14 @@
+
+git clone
+mkadir semana2
+cd semana2
+pwd
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch teflexion semana2.txt
+nano 
+ls 
+ls-la
+git add .
+git commit -m
+git push

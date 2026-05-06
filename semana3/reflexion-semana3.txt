@@ -1,0 +1,2 @@
+Git permite llevar un historial ordenado de todos los cambios en los proyectos, lo que facilita trabajar de forma más segura y organizada. También ayuda a controlar y entender la evolución de un proyecto de software. Además, permite trabajar en equipo sin conflictos y sin sobrescribir el trabajo de los demás. Gracias a esto, se pueden revisar cambios anteriores, corregir errores y colaborar con otras personas sin perder información. Por eso, Git hace que el desarrollo de software sea más ordenado, seguro y colaborativo.
+

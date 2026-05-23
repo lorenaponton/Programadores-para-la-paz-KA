@@ -1,0 +1,5 @@
+Qué hace esta ruta.
+ La ruta permite que la aplicación comunitaria reciba información enviada por una persona y devuelva una respuesta indicando que el mensaje fue recibido correctamente.
+
+Para qué podría servir en una aplicación comunitaria.
+La aplicación comunitaria puede utilizarse para enviar avisos, reportar problemas del barrio o compartir información importante con los administradores.

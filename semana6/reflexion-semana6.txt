@@ -1,0 +1,8 @@
+Es importante que las plataformas tecnológicas reciban reportes estructurados porque así los datos llegan organizados y fáciles de entender.
+Esto permite que el sistema procese la información de manera automática y sin errores.
+Cada dato se identifica claramente, como el tipo de problema y su descripción.
+Facilita el almacenamiento correcto en bases de datos.
+También mejora la rapidez en la respuesta a los ciudadanos.
+Evita confusiones que pueden ocurrir con mensajes en texto libre.
+Permite que diferentes sistemas puedan compartir información sin problemas.
+En general, mejora la eficiencia y la calidad del servicio tecnológico.

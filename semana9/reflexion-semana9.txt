@@ -1,0 +1,9 @@
+Es importante que las plataformas tecnológicas funcionen de manera estable porque así los usuarios pueden acceder sin interrupciones.
+Esto ayuda a que la comunicación dentro de la comunidad no se pierda ni se detenga.
+También es importante la seguridad, ya que protege los datos personales de las personas.
+Evita que haya ataques o personas que quieran robar información.
+Un servidor estable hace que el sistema funcione mejor y sin fallas constantes.
+Además, permite que las solicitudes se procesen de forma correcta.
+Si el sistema falla, se puede perder información importante.
+Por eso es necesario que todo funcione bien y de forma continua.
+En general, esto garantiza un servicio confiable para todos los usuarios.

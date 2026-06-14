@@ -1,0 +1,15 @@
+Sistema operativo
+Es el programa base que administra todos los recursos del equipo.
+Sin él, el dispositivo no puede ejecutar aplicaciones ni procesos.
+Node.js
+Es una herramienta que permite ejecutar JavaScript en el servidor.
+Se usa para crear aplicaciones rápidas y escalables.
+Aplicación server.js
+Es el archivo donde se configura el servidor en Node.js.
+Desde ahí se define cómo responde la aplicación a las peticiones.
+Puerto
+Es el canal por donde un servidor se conecta con otros dispositivos.
+Cada aplicación usa un número de puerto diferente para funcionar.
+Logs
+Son registros que muestran lo que hace el sistema o servidor.
+Ayudan a detectar errores y revisar el funcionamiento de la aplicación.

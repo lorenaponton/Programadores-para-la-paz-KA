@@ -1,0 +1,6 @@
+uname -a
+Linux localhost 4.19.198-28701120-abA135MU
+
+whoami
+u0_a329
+Porque permite identificar las características del servidor y verificar su funcionamiento. Además, ayuda a detectar problemas y realizar configuraciones adecuadas. Esto garantiza una administración más eficiente y segura del sistema.

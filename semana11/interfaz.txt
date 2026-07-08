@@ -1,0 +1,11 @@
+Interfaz simple para una plataforma comunitaria:
+
+La interfaz sería fácil de usar y tendría diferentes opciones para participar en la comunidad.
+
+Tendría un formulario para crear una causa donde los usuarios puedan agregar un nombre, una explicación y la fecha.
+
+Cada causa tendría un botón para apoyar y así las personas puedan mostrar su interés.
+
+También incluiría un contador que muestre la cantidad de apoyos que tiene cada causa.
+
+La pantalla principal tendría una sección con todas las causas disponibles para que los usuarios puedan revisarlas y participar.

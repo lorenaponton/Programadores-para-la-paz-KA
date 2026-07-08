@@ -1,0 +1,15 @@
+ pregunta 1
+ respuesta:B. Un sistema que permite almacenar y consultar información estructurada.
+
+ pregunta 2
+ respuesta:A. Crear, leer, actualizar y eliminar datos.
+
+
+ pregunta 3
+ respuesta:B. Crear, leer, actualizar y eliminar datos.
+
+
+ pregunta 4
+ respuesta:B. Para evitar riesgos de privacidad o uso indebido de la información.
+ 
+

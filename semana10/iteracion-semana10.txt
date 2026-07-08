@@ -1,0 +1,10 @@
+ Las dos tareas que realizaría primero son implementar el dashboard de seguimiento y agregar la revisión de las solicitudes. 
+ 
+ ¿Por qué son las más importantes?
+ Porque permiten hacer seguimiento al estado de las solicitudes y facilitan su revisión.
+ 
+¿Qué significa para ti que una tarea esté “terminada”?
+ Que cumple con lo solicitado, fue revisada y está lista para usar.
+
+Definición simple de terminado:
+Para mí, una tarea está terminada cuando cumple los requisitos, funciona sin errores y fue registrada en Git con su evidencia.

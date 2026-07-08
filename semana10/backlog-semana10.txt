@@ -1,0 +1,7 @@
+1. Como ciudadano quiero enviar un reporte cuando vea un problema para que lo puedan atender.
+
+2. Como administrador quiero recibir el reporte para revisarlo lo más pronto posible.
+
+3. Como coordinador quiero actualizar el estado del reporte para informar cómo va el caso.
+
+4. Como integrante de la veeduría quiero ver los reportes para conocer el seguimiento de cada caso.

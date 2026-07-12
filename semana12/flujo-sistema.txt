@@ -1,0 +1,5 @@
+ 1. El usuario abre la plataforma y elige crear una petición.
+ 2. Escribe la información principal de la causa y la publica.
+ 3. Las personas interesadas ingresan y apoyan la petición.
+ 4. El sistema registra los apoyos y organiza toda la información.
+ 5. Finalmente, se genera un documento en PDF con la petición para compartirlo con la entidad correspondiente.

@@ -1,0 +1,5 @@
+ -La automatización inicia cuando una persona envía un formulario para crear una causa.
+
+ -Una vez ocurre ese evento, n8n envía un mensaje a Telegram informando que se registró una nueva causa y que fue recibida correctamente.
+
+ -Por seguridad, no se deben enviar contraseñas, datos bancarios, documentos de identidad ni otra información personal de los usuarios.

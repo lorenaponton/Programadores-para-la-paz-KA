@@ -1,0 +1,17 @@
+ Entidad: Causa
+
+ - id
+ - título
+ - descripción
+ - fecha
+
+ Para mí, esta entidad sirve para guardar la información de cada causa que se crea en la plataforma, como su nombre, la descripción y la fecha en que fue registrada.
+
+ Entidad: Apoyo
+
+ - id
+ - causa_id
+ - nombre
+ - fecha
+
+ Considero que esta entidad sirve para registrar quién apoya cada causa y llevar un control de esos apoyos, relacionándolos con la causa correspondiente.

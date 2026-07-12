@@ -1,0 +1,9 @@
+Durante este curso aprendí que la tecnología es una herramienta muy útil para la comunidad.
+Entendí que ayuda a mejorar la comunicación entre los ciudadanos.
+También aprendí que una buena organización de la información facilita el trabajo.
+Conocí la importancia de las bases de datos para almacenar información.
+Aprendí a usar herramientas como GitHub, Node.js, n8n y Telegram.
+Además, comprendí que la seguridad de los datos personales es fundamental.
+Vi cómo la automatización puede ahorrar tiempo en algunas tareas.
+Estos conocimientos me ayudarán a desarrollar mejores proyectos en el futuro.
+Me voy del curso con una mejor idea de cómo la tecnología puede apoyar la participación ciudadana.
